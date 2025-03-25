@@ -1,4 +1,6 @@
 # Ex-01-Linux-Commands
+## Reg No: 212223220015
+## NAME: CHARAN KUMAR S
 
 
 ## Aim:
